@@ -1,5 +1,5 @@
 # videojuegos
-Pagina creada en vue en la cual se ocupo router y condicionales v-if y v-for, tambien el uso de formularios ocupando v-model para capturar los datos 
+Pagina creada en vue consultando a una API de videojuegos en la cual se ocupo router view para las vistas, condicionales v-if y ciclos v-for, tambien el uso de formularios ocupando v-model para capturar los datos 
 
 [![game-opinion.png](https://i.postimg.cc/Qxskk5Lh/game-opinion.png)](https://postimg.cc/Th7DTKY4)
 ## Project setup
